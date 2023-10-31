@@ -28,4 +28,5 @@ More info about the dataset can be found here:
 
 
 ## DashBoard
-![GCP Uber Image](https://github.com/Simon1197/Uber_GCP_Project/blob/main/mage-files/gcp_uber.png)
+![Spotify_dashboard](https://github.com/Simon1197/PowerBI_Spotify-dashboard/blob/main/spotify_datamodel.png)
+
