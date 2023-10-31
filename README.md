@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The goal of this project is to perform data analytics on Uber data using various tools and technologies, including Power BI, Python, HTML, Bravo, and Measure.
+The goal of this project is to perform a dashboard on Spootify data using various tools and technologies, including Power BI, Python, HTML, Bravo, and Measure.
 
 ## Technology Used
 - Programming Language - Python
