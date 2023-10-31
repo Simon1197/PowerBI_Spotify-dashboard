@@ -24,7 +24,7 @@ More info about the dataset can be found here:
 1. Website - https://developer.spotify.com/
 
 ## Data Model
-![Spotify_data_image](https://github.com/Simon1197/PowerBI_Spotify-dashboard/main/spotify_datamodel.png)
+![Spotify_data_image](https://github.com/Simon1197/PowerBI_Spotify-dashboard/blob/main/spotify_datamodel.png)
 
 
 ## DashBoard
