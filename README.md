@@ -18,14 +18,13 @@ Microsoft Power BI Dashboard
 Spotify data
 Spodify developer API
 
-Here is the dataset used - https://github.com/Simon1197/Uber_GCP_Project/blob/main/data/uber_data.csv
+Here is the dataset used - https://github.com/Simon1197/PowerBI_Spotify-dashboard/main/spotify-2023.csv
 
-More info about dataset can be found here:
-1. Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+More info about the dataset can be found here:
+1. Website - https://developer.spotify.com/
 
 ## Data Model
-<img src="data_model.jpeg">
+![Spotify_data_image](https://github.com/Simon1197/PowerBI_Spotify-dashboard/main/spotify datamodel.png)
 
 
 ## DashBoard
